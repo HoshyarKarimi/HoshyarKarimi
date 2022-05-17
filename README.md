@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C\# & .NET
 - 💞️ I’m looking to collaborate on FOSS Projects
-- 📫 You can reach me at [@karioosh](https://www.twitter.com/karioosh)
+- 📫 [Contact me](mailto:baxooshi@gmail.com) if needed
 
 <!---
 HoshyarKarimi/HoshyarKarimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
